@@ -28,6 +28,7 @@
 		544F7DC61438BB82001E95E3 /* playground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = playground; sourceTree = BUILT_PRODUCTS_DIR; };
 		544F7DCA1438BB82001E95E3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		544F7DCC1438BB82001E95E3 /* playground.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = playground.1; sourceTree = "<group>"; };
+		544F7DD31438BFF5001E95E3 /* homework-1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "homework-1.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			children = (
 				544F7DCA1438BB82001E95E3 /* main.cpp */,
 				544F7DCC1438BB82001E95E3 /* playground.1 */,
+				544F7DD31438BFF5001E95E3 /* homework-1.txt */,
 			);
 			path = playground;
 			sourceTree = "<group>";
