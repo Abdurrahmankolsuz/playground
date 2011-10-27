@@ -7,10 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		54226C5214482CD60028A22D /* lab2pre.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54226C5114482CD60028A22D /* lab2pre.cpp */; };
-		54226C551448309E0028A22D /* lab2pre2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54226C541448309D0028A22D /* lab2pre2.cpp */; };
-		54226C57144832D00028A22D /* lab2pre3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54226C56144832D00028A22D /* lab2pre3.cpp */; };
-		544F7DCB1438BB82001E95E3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 544F7DCA1438BB82001E95E3 /* main.cpp */; };
 		544F7DCD1438BB82001E95E3 /* playground.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 544F7DCC1438BB82001E95E3 /* playground.1 */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +31,7 @@
 		544F7DCA1438BB82001E95E3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		544F7DCC1438BB82001E95E3 /* playground.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = playground.1; sourceTree = "<group>"; };
 		544F7DD31438BFF5001E95E3 /* homework-1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "homework-1.txt"; sourceTree = "<group>"; };
+		545629F31458C3610030288A /* lab1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = lab1.cpp; path = datastructures/lab1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +48,7 @@
 		544F7DBB1438BB81001E95E3 = {
 			isa = PBXGroup;
 			children = (
+				545629F11458C2220030288A /* datastructures */,
 				544F7DC91438BB82001E95E3 /* playground */,
 				544F7DC71438BB82001E95E3 /* Products */,
 			);
@@ -75,6 +73,14 @@
 				54226C56144832D00028A22D /* lab2pre3.cpp */,
 			);
 			path = playground;
+			sourceTree = "<group>";
+		};
+		545629F11458C2220030288A /* datastructures */ = {
+			isa = PBXGroup;
+			children = (
+				545629F31458C3610030288A /* lab1.cpp */,
+			);
+			name = datastructures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,10 +130,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				544F7DCB1438BB82001E95E3 /* main.cpp in Sources */,
-				54226C5214482CD60028A22D /* lab2pre.cpp in Sources */,
-				54226C551448309E0028A22D /* lab2pre2.cpp in Sources */,
-				54226C57144832D00028A22D /* lab2pre3.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
