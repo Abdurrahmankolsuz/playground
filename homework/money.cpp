@@ -5,7 +5,6 @@
  *      Author: regularlambda
  */
 
-/*
 #include <iostream>
 using namespace std;
 class Money{
@@ -55,4 +54,3 @@ int main(){
        cout<<"total money int my wallet is "<<myWallet.totalCash()<<endl;
        return 0;
 }
-*/
