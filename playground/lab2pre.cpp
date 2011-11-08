@@ -25,7 +25,7 @@ int main()
     int x=0;
     cout << "Initially, x = " << x << endl;
     f1();
-    cout<<"Attheend,x="<<x<<endl;
+    cout<<"At the end, x="<<x<<endl;
     cout<< mystery2(5, 4)<< endl;
     int i;
     int values[ 10 ] = { 4, 1, 1, 3, 4, 9, 9, 2, 1, 7 };
