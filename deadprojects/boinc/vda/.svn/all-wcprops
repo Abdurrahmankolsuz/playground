@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/25152/trunk/boinc/vda
+END
+vdad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25152/trunk/boinc/vda/vdad.cpp
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/25126/trunk/boinc/vda/des.h
+END
+ssim.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25126/trunk/boinc/vda/ssim.php
+END
+vda_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/25128/trunk/boinc/vda/vda_lib.cpp
+END
+vda_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/25126/trunk/boinc/vda/vda_lib.h
+END
+ssim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25128/trunk/boinc/vda/ssim.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25131/trunk/boinc/vda/makefile
+END
+plot
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/25126/trunk/boinc/vda/plot
+END

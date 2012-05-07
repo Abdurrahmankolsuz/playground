@@ -1,0 +1,62 @@
+q#^.*sevdiğin grup.*$#Kurban sever... (www.kurban.com)
+q#^.*ne.*yer.*sen.*yersin.*$#archer yer...
+q#^.*sen nesin.*$#kocaman bir parsım ;)
+q#^.*all.*base.*$#thinks all your base are belong to Numeric ;)
+q#^.*!kahve.*$#kahve sever ama çay sevmez.
+q#^.*kim.*arkadaş.*$# 'in arkadaşı pisidir.
+q#^.*a\/s\/l.*$#purrs: 8 , Pars, Hemen arkandayım
+q#^.*!hava.*$#bana hava güzel SENDER...
+q#^.*!wiki.*$#http://tr.pardus-wiki.org/Ana_Sayfa?title=Ana_sayfa
+q#^.*nasıl.*derlenir.*kernel.*derliycez.*derle.*$#bir leym 2.6'nın nasıl deerlendiğini soruyor şöyle 'make; make modules_install; make install'
+a#pisi Numeric#geliyom mrrr
+a#^.*strokes Numeric.*$#purrs
+a#scritches Numeric#purrs
+a#kaşı Numeric#tüylerimi
+a#okşa Numeric#tüylerimi
+a#^.*öp.*Numeric.*$#mujkk SENDER
+a#kick Numeric.*$#SENDER Grrrrr...
+a#^.*Numeric.*a.*fish$#ignores the fish
+a#^.*Numeric.*catnip$#ignores the catnip
+a#^.*!slap.*$#tokadı yedin benden SENDER.
+a#^.*Numeric.*a.*inek$#ders çalışıyorum evet...
+a#^.*Numeric.*a.*balık$#daha büyük bir şey yok mu?
+a#^.*Numeric.*a.*uyan$#biraz daha uyuyım ya :(
+a#^.*fart$#yavaşça koku bulutundan uzaklaşıyoruz.
+a#^.*string.*$#eyes the string, haunches, and wiggles her tail, then pounces upon it joyously
+p#^.*@}~~}~~.*$#Bana mı teşekkürler bebeğim
+p#^.*!pardus.*$#I <3 PARDUS
+p#^.*!teknisyen.*$#(bilgisayar) uygulamaları yerinde ve zamanında tam çözümüyle sunan hızlı çözümlere yatkın, doğabilecek sorunları önceden kestirebilen uygulamacı meslek dalı birden fazla alt dalı bulunur.
+p#^.*!mühendis.*$#(bilgisayar) yazılım donanım konularında derin bilgisi olan her türlü zor problemi ve sorunun çözecek düzeye ulaşmış günümüzde çeşitli alt dallara sahip meslektir.
+p#^.*!hacker$#bildiğiniz gibi birşey değildir JFGI!
+p#^.*!coder.*$#birden fazla dilde algoritmaları uygulayabilen yazılıma sınırlı bilgisiyle aktarabilen kişidir.
+p#o\/ Numeric#miyavvv
+p#^.*!programcı.*$#kendini bilen her türlü algoritmayı 3P kuralına göre yazılıma aktarabilen herkese denir.
+p#^.*!botadı.*$#adım. Beynimin adı ise ParsBot. Sahibimin adı Mahmut.
+p#^.*güçlü.*pars.*$#Grrrrrrr
+p#^.*cici.*kedi.*$#miyavvv
+p#^.*!release.*$#Pardus 2011
+p#^.*Numeric.*yuvarlan.*$#pençeme bak SENDER Grrr
+p#^.*bira.*$#ısmarlayayım SENDER
+p#^.*arch.*$#her b*ku bilen lamerlerin dağıtımı...
+p#^.*inek.*$#kulaklarımı diktim
+p#^.*möö\?.*$#SENDER susmalı bence
+p#^.*möö.*$#kulaklarimi diktim dinliyorum seni
+p#mrb Numeric#miyavvv
+p#slm Numeric#miyavvv
+p#merhaba Numeric#miyavvv
+p#akşamlar Numeric#miyavvv
+p#bye Numeric#miyavvv
+p#bb Numeric#miyavvv
+p#^.*microsoft.*$#kaşınıyorsun SENDER lamerlerin markası bu...
+p#^.*yapılabilirlik.*$#ben senin yapılabilirliğini sevdim SENDER
+p#^.*Şekspir.*$#öyle mi yazılır miyavvv
+p#^.*release.*$#release comes release goes...
+p#^.*pardüs.*$#Öyle okunmaz kusura bakma...
+p#^.*!fatmagül.*$#"Öyle deme üzülür..."
+p#^.*steve ballmer*$#para yiyerek şişmiş diyorlar?
+p#^.*steve jobs.*$#<puts her lawyer on danger money> ;)
+p#^.*M\$.*$#Dolarların senin olsun SENDER
+p#Bill Gates#OMG! SENDER WTF ne diyon sen grrr?
+p#^.*!güncelleme.*$#http://liste.pardus.org.tr/paketler-commits/
+p#^.*!arçlinux.*$#lamer community
+p#^.*am.$#sikerim seni Grrrrr

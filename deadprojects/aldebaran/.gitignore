@@ -1,0 +1,13 @@
+# please add general patterns to your global ignore list
+# see https://github.com/github/gitignore#readme
+
+/pkg
+/doc/api
+/Gemfile.lock
+.nbproject/
+.DS_Store
+CHANGES
+.project
+aldebaran-*.gem
+aldebaran*.gem
+.idea/
